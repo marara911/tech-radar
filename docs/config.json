@@ -1,0 +1,19 @@
+{
+  "date": "2024.09",
+  "entries": [
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Databricks",
+      "active": true,
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Azure",
+      "active": true,
+      "moved": 1
+    }
+  ]
+}
